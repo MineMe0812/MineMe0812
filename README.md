@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+Nice+to+meet+you+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-Hi, I am Brainartfu.
+Hi,
 I am a senior Web and App developer who has 7+ years of experience.
 As a talented developer, I have built many websites and App using React, React-Native, Android,  Laravel, WordPress etc…
 I love taking on complex business challenges and designing full-stack solutions using your technologies of choice!
@@ -62,5 +62,3 @@ HTML         30 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/brainartfu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
