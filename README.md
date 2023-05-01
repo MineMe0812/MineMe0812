@@ -24,15 +24,15 @@
 
 ## My GitHub Stats 📊
 <p align="center">
-	<a href="https://github.com/mastercodercat">
+	<a href="https://github.com/MineMe0812">
 		<img align="center" src="https://github-profile-trophy.vercel.app/?username=mastercodercat" />
 	</a>
 </p>
 <p align="center">
-	<a href="https://github.com/mastercodercat">
+	<a href="https://github.com/MineMe0812">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodercat&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" />
 	</a>
-	<a href="https://github.com/mastercodercat">
+	<a href="https://github.com/MineMe0812">
 		<img align="center" src="https://github-readme-stats.vercel.app/api?username=mastercodercat&show_icons=true&theme=dracula" />
 	</a>
 </p>
